@@ -11,6 +11,7 @@
 		}
 	],
 	"require": {
-		"magento-hackathon/magento-composer-installer": "*"
+		"magento-hackathon/magento-composer-installer": "*",
+		"connect20/mage_googleshopping": "*"
 	}
 }

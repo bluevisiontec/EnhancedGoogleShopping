@@ -3,7 +3,11 @@
     <modules>
         <BlueVisionTec_EnhancedGoogleShopping>
             <active>true</active>
-            <codePool>community</codePool>          
+            <codePool>community</codePool>  
+			<depends>
+				<Mage_Catalog/>
+				<Mage_GoogleShopping/>
+			</depends>
         </BlueVisionTec_EnhancedGoogleShopping>
     </modules>
 </config>
